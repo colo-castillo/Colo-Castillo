@@ -17,7 +17,7 @@
 
 ## ✦ Sobre mí
 
-Soy estudiante de **Desarrollo de Software** y disfruto crear proyectos que me permitan poner en práctica lo que aprendo. Me interesa tanto el **frontend** como el **backend**, y seguir creciendo en programación y trabajo en equipo.
+Soy estudiante de **Desarrollo de Software**, actualmente estudiando la Tecnicatura en Programacion en la UTN y disfruto crear proyectos que me permitan poner en práctica lo que aprendo. Me interesa tanto el **frontend** como el **backend**, y seguir creciendo en programación y trabajo en equipo.
 
 ## ✦ Tecnologías
 
