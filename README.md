@@ -43,11 +43,23 @@ Soy estudiante de **Desarrollo de Software** y disfruto crear proyectos que me p
 
 Proyectos desarrollados en equipo durante la carrera de Desarrollo de Software.
 
-[🔗 Explorar todos los proyectos de Bitwars](https://github.com/HotCode2025?tab=repositories)
+🔗 [Explorar todos los proyectos de Bitwars](https://github.com/HotCode2025?tab=repositories)
 
-#### 🎮 Juego Avatar
+**📂 Repositorios del grupo:**
+
+- 📘 [Bitwars — Tercer Semestre](https://github.com/HotCode2025/Bitwars-Tercer-Semestre)
+- 📗 [Bitwars — Cuarto Semestre](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre)
+- 🚀 [Bitwars — Cuarto Semestre: Proyecto Integrador](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre-Proyecto-Integrador)
+
+---
+
+#### 🎮 Juego Avatar — Proyecto personal
 
 Juego web interactivo desarrollado como proyecto personal.
+
+🔗 [Ver mis repositorios personales](https://github.com/Colo-Castillo?tab=repositories)
+
+
 ## ✦ Actividad en GitHub
 
 <div align="center">
