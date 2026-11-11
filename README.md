@@ -37,15 +37,17 @@ Soy estudiante de **Desarrollo de Software** y disfruto crear proyectos que me p
 
 </div>
 
-## ✦ Proyectos destacados
+### 🚀 Proyectos destacados
 
-| 01 · Bitwars | 02 · Juego Avatar |
-| :--- | :--- |
-| Proyecto integrador de desarrollo de software. | Juego web interactivo con temática de Avatar. |
-| [Explorar mis repositorios](https://github.com/Colo-Castillo?tab=repositories) | [Explorar mis repositorios](https://github.com/Colo-Castillo?tab=repositories) |
+#### 💻 Bitwars — Proyectos grupales
 
-> Los enlaces llevan a mi lista de repositorios hasta que agregue las URLs específicas de cada proyecto.
+Proyectos desarrollados en equipo durante la carrera de Desarrollo de Software.
 
+[🔗 Explorar todos los proyectos de Bitwars](https://github.com/HotCode2025?tab=repositories)
+
+#### 🎮 Juego Avatar
+
+Juego web interactivo desarrollado como proyecto personal.
 ## ✦ Actividad en GitHub
 
 <div align="center">
