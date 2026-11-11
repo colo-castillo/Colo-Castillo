@@ -37,7 +37,7 @@ Soy estudiante de **Desarrollo de Software** y disfruto crear proyectos que me p
 
 </div>
 
-### 🚀 Proyectos destacados
+### ✦ Proyectos destacados
 
 #### 💻 Bitwars — Proyectos grupales
 
@@ -47,26 +47,22 @@ Proyectos desarrollados en equipo durante la carrera de Desarrollo de Software.
 
 **📂 Repositorios del grupo:**
 
-- 📘 [Bitwars — Tercer Semestre](https://github.com/HotCode2025/Bitwars-Tercer-Semestre)
-- 📗 [Bitwars — Cuarto Semestre](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre)
-- 🚀 [Bitwars — Cuarto Semestre: Proyecto Integrador](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre-Proyecto-Integrador)
-
----
+- [Bitwars — Tercer Semestre](https://github.com/HotCode2025/Bitwars-Tercer-Semestre)
+- [Bitwars — Cuarto Semestre](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre)
+- [Bitwars — Cuarto Semestre: Proyecto Integrador](https://github.com/HotCode2025/Bitwars-Cuarto-Semestre-Proyecto-Integrador)
 
 #### 🎮 Juego Avatar — Proyecto personal
 
 Juego web interactivo desarrollado como proyecto personal.
 
 🔗 [Ver mis repositorios personales](https://github.com/Colo-Castillo?tab=repositories)
+### 📊 Actividad en GitHub
 
+Podés consultar mis contribuciones, proyectos y actividad directamente en mi perfil.
 
-## ✦ Actividad en GitHub
+[📈 Ver mi actividad en GitHub](https://github.com/Colo-Castillo?tab=overview)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colo-Castillo&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D8CFF&text_color=C9D1D9" alt="Lenguajes utilizados en GitHub" />
-
-</div>
+[💻 Explorar mis repositorios](https://github.com/Colo-Castillo?tab=repositories)
 
 ---
 
