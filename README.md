@@ -1,130 +1,67 @@
 <div align="center">
 
-<sub>SOFTWARE DEVELOPMENT · ARGENTINA</sub>
+# Hola, soy Valentín Castillo 👋
 
-# Valentín Castillo
+### Estudiante de Desarrollo de Software de la UTN de San Rafael Mendoza
 
-**Estudiante de Desarrollo de Software**
+*Aprendiendo, construyendo y mejorando un proyecto a la vez.*
 
-<sub>Aprendiendo, construyendo y mejorando una línea de código a la vez.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=9D8CFF&center=true&vCenter=true&width=520&lines=Desarrollo+web+%7C+Frontend+%26+Backend;Java+%7C+Spring+Boot+%7C+JavaScript;Siempre+aprendiendo+algo+nuevo" alt="Tecnologías e intereses" />
 
-<br>
-
-[Correo](mailto:colocross97@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Colo-Castillo) &nbsp;·&nbsp; [Repositorios](https://github.com/Colo-Castillo?tab=repositories)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:253858&height=3&section=header" width="85%" alt="Separador azul noche" />
+[![GitHub](https://img.shields.io/badge/GitHub-Colo--Castillo-171B2E?style=flat-square&logo=github&logoColor=white)](https://github.com/Colo-Castillo)
+[![Email](https://img.shields.io/badge/Email-Contacto-7465C7?style=flat-square&logo=gmail&logoColor=white)](mailto:colocross97@gmail.com)
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## ✦ Sobre mí
 
-### 01 / SOBRE MÍ
+Soy estudiante de **Desarrollo de Software** y disfruto crear proyectos que me permitan poner en práctica lo que aprendo. Me interesa tanto el **frontend** como el **backend**, y seguir creciendo en programación y trabajo en equipo.
 
-Me interesa comprender cómo funcionan las aplicaciones y transformar ideas en proyectos reales.
+## ✦ Tecnologías
 
-Actualmente estudio **Desarrollo de Software** y sigo fortaleciendo mis conocimientos en programación, desarrollo web y bases de datos.
-
-Me gusta aprender haciendo y enfrentar nuevos desafíos.
-
-</td>
-<td width="45%" valign="top">
-
-### EN POCAS PALABRAS
-
-```text
-perfil    estudiante
-intereses desarrollo de software
-enfoque   aprender y crear
-ubicación Argentina
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 02 / HERRAMIENTAS
-
-<sub>TECNOLOGÍAS CON LAS QUE TRABAJO Y APRENDO</sub>
-
-<br><br>
+<div align="center">
 
 **Lenguajes y web**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python&theme=dark" alt="HTML, CSS, JavaScript, Java y Python" />
 
-**Backend y datos**
+**Backend y bases de datos**
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres&theme=dark" alt="Spring Boot, Node.js, MySQL y PostgreSQL" />
 
-**Control de versiones**
+**Herramientas**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git y GitHub" />
 
-<br>
+</div>
 
-### 03 / PROYECTOS SELECCIONADOS
+## ✦ Proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| 01 · Bitwars | 02 · Juego Avatar |
+| :--- | :--- |
+| Proyecto integrador de desarrollo de software. | Juego web interactivo con temática de Avatar. |
+| [Explorar mis repositorios](https://github.com/Colo-Castillo?tab=repositories) | [Explorar mis repositorios](https://github.com/Colo-Castillo?tab=repositories) |
 
-<sub>01 — PROYECTO</sub>
+> Los enlaces llevan a mi lista de repositorios hasta que agregue las URLs específicas de cada proyecto.
 
-#### Bitwars
-
-Proyecto de desarrollo de software.
-
-[Buscar en mis repositorios](https://github.com/Colo-Castillo?tab=repositories&q=Bitwars)
-
-</td>
-<td width="50%" valign="top">
-
-<sub>02 — PROYECTO</sub>
-
-#### Juego Avatar
-
-Proyecto de juego web.
-
-[Buscar en mis repositorios](https://github.com/Colo-Castillo?tab=repositories&q=Avatar)
-
-</td>
-</tr>
-</table>
-
-<sub>Los enlaces de arriba son búsquedas dentro de mis repositorios; no apuntan a repositorios específicos hasta confirmar sus URL.</sub>
-
-<br>
-
-### 04 / ACTIVIDAD
+## ✦ Actividad en GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colo-Castillo&layout=compact&hide_border=true&bg_color=0B1220&title_color=E2E8F0&text_color=94A3B8&langs_count=6" alt="Lenguajes más utilizados en repositorios públicos de Colo-Castillo" />
-
-<sub>Estadísticas calculadas por un servicio externo a partir de los repositorios públicos.</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colo-Castillo&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D8CFF&text_color=C9D1D9" alt="Lenguajes utilizados en GitHub" />
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-<sub>¿TENÉS UNA IDEA O QUERÉS CONTACTARME?</sub>
+**¿Charlamos sobre tecnología o proyectos?**
 
-**[colocross97@gmail.com](mailto:colocross97@gmail.com)**
+📩 [colocross97@gmail.com](mailto:colocross97@gmail.com) · 💻 [GitHub](https://github.com/Colo-Castillo)
 
-<br>
-
-<sub>© Valentín Castillo · Gracias por pasar por mi perfil.</sub>
+<sub>Gracias por pasar por mi perfil ✨</sub>
 
 </div>
